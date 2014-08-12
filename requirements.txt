@@ -1,1 +1,2 @@
 django
+git+git://github.com/jessemiller/HamlPy.git@fe3ba8bd824925df4b4c64bbf9e3cbe80b625373#egg=hamlpy
